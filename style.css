@@ -167,6 +167,11 @@ h4 {
   margin-left: -198px;
 }
 
+#first-service {
+  justify-content: center;
+  text-align: center;
+}
+
 footer {
   background: #4e4e4e;
   height: 81px;
